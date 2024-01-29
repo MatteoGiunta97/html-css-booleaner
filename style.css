@@ -24,3 +24,15 @@ h1{
 #text-bg{
     background-color: rgb(238, 255, 0);
 }
+
+ th{
+    background-color: #20A9E5;
+  }
+
+#th-text-color{
+    color: white;
+}
+
+  .tr-color{
+   background-color: #B1E5F2;
+  }
