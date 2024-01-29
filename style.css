@@ -17,3 +17,10 @@ h1{
     color: #808080;
 }
 
+#font-wg{
+    font-weight:bold;
+}
+
+#text-bg{
+    background-color: rgb(238, 255, 0);
+}
